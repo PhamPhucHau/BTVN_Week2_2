@@ -1,9 +1,14 @@
 ### BTVN_Week2_2
 ## Kết quả bài tập ở folder Image
-
+# Get employee và department tương ứng
 ![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/MyBatisGetEmployee.jpg)
+# Get department và số lượng nhân viên của department đó
 ![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/MyBatistGetDepartment.jpg)
-![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/Screenshot 2022-08-27 222719.jpg)
-![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/Screenshot 2022-08-27 223320.jpg)
+# Thêm mới một nhân viên
 ![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/createNewEmployee.jpg)
-![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/department.jpg)
+# Get thông tin của tất cả department.
+![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/GetAllDepartment.jpg)
+# PC
+![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/PC.jpg)
+# Server
+![](https://github.com/PhamPhucHau/BTVN_Week2_2/blob/master/Image/Server.jpg)
